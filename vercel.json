@@ -16,7 +16,7 @@
             "dest": "/public/$1"
         },
         {
-            "scr": "/(.*)",
+            "src": "/(.*)",
             "dest": "/api/inde.php"
         }
     ],
@@ -41,3 +41,4 @@
         "DB_CONNECTION": "msql"
     }
 }
+
