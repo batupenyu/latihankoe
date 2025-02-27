@@ -28,7 +28,7 @@
         "APP_TIMEZONE": "Asia/jAkarta",
         "APP_DEBUG": "false",
         "APP_URL": "https://example.com",
-        "APP_KEY ": "base64:HAJqie3DYVK9mBj5e0GqJAKLM8cN/3KRil5BB4MAilI",
+        "APP_KEY": "base64:HAJqie3DYVK9mBj5e0GqJAKLM8cN/3KRil5BB4MAilI",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
@@ -41,4 +41,3 @@
         "DB_CONNECTION": "msql"
     }
 }
-
