@@ -1,11 +1,7 @@
 {
     "version": 2,
     "framework": null,
-    "functions": {
-        "api/**/*.js": {
-            "runtime": "vercel-php@0.1.0"
-        }
-    },
+
     "routes": [
         {
             "src": "/build/(.*)",
@@ -25,7 +21,7 @@
     "outputDirectory": "public",
     "env": {
         "ENV": "production",
-        "APP_TIMEZONE": "Asia/jAkarta",
+        "APP_TIMEZONE": "Asia/jakarta",
         "APP_DEBUG": "false",
         "APP_URL": "https://example.com",
         "APP_KEY": "base64:HAJqie3DYVK9mBj5e0GqJAKLM8cN/3KRil5BB4MAilI",
